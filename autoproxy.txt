@@ -25,6 +25,8 @@
 ||cn.pornhub.com
 ||www.pornhub.com
 ||challenges.cloudflare.com
+||cloudflare.com
+||linux.do
 ||proxsee.pscp.tv
 ||app-measurement.com
 ||t.co
