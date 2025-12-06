@@ -76,6 +76,7 @@
 ||google.com
 ||google.com.hk
 ||google.com.sg
+||google.co.jp
 ||drive.google.com
 ||suggestqueries.google.com
 ||www.google.com
@@ -94,6 +95,8 @@
 ||googleusercontent.com
 ||nxp.com
 ||github.com
+||github.dev
+||github.io
 ||avatars.githubusercontent.com
 ||raw.githubusercontent.com
 ||release-assets.githubusercontent.com
@@ -108,6 +111,18 @@
 ||ted.com
 ||tedcdn.com
 ||prismic.io
+||metacubex.one
+||joplinapp.org
+||stripe.com
+||kernel.org
+||wikipedia.com
+||wikipedia.org
+||tailscale.com
+||flathub.org
+||qpic.ws
+||obsidian.md
+! video
+||olevod.com
 
 ! IP CIDR rules (some clients may not support CIDR in this format)
 /91.108.56.0/24
