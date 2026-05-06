@@ -28,6 +28,7 @@
 ||cloudflare.com
 ||linux.do
 ||proxsee.pscp.tv
+||pscp.tv
 ||app-measurement.com
 ||t.co
 ||app-analytics-services.com
@@ -83,6 +84,7 @@
 ||googleapis.com
 ||device-provisioning.googleapis.com
 ||fcmtoken.googleapis.com
+||firebase.googleapis.com
 ||firebaseinstallations.googleapis.com
 ||imasdk.googleapis.com
 ||notifications-pa.googleapis.com
@@ -98,9 +100,11 @@
 ||github.dev
 ||github.io
 ||avatars.githubusercontent.com
+||avatars2.githubusercontent.com
 ||raw.githubusercontent.com
 ||release-assets.githubusercontent.com
 ||githubassets.com
+||private-user-images.githubusercontent.com
 ||imgur.com
 ||notepad-plus-plus.org
 ||cookielaw.org
@@ -123,6 +127,17 @@
 ||obsidian.md
 ! video
 ||olevod.com
+||grokipedia.com
+||x.ai
+||123av.me
+||123av.com
+||missav123.to
+||njav.tv
+||xsijishe.com
+||njavtv.com
+||myavlive.com
+||surrit.com
+||stripchat.webcam
 
 ! IP CIDR rules (some clients may not support CIDR in this format)
 /91.108.56.0/24
